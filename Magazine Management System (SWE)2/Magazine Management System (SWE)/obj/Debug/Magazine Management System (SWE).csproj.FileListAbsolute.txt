@@ -1,0 +1,150 @@
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.AssemblyReference.cache
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Author.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Customer.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F7_Admin.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.Properties.Resources.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.GenerateResource.cache
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CoreCompileInputs.cache
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.F3_Magazines.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe.config
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).pdb
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\AxShockwaveFlashObjects.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.Shared.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\Oracle.DataAccess.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\ShockwaveFlashObjects.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\stdole.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CopyComplete
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).exe
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).pdb
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F8_EnterSystem.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl1.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl2.resources
+F:\{Sixth Term Materials}\Software Engineering\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.GUI.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe.config
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).pdb
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\stdole.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.AssemblyReference.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Author.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Customer.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.F3_Magazines.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F7_Admin.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F8_EnterSystem.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.GUI.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.Properties.Resources.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl1.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl2.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.GenerateResource.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CoreCompileInputs.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CopyComplete
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).exe
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).pdb
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.View_Best_Magazine.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F5_Disconnected.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe.config
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).pdb
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\stdole.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.AssemblyReference.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F5_Disconnected.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Author.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Customer.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.F3_Magazines.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.View_Best_Magazine.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F7_Admin.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F8_EnterSystem.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.GUI.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.Properties.Resources.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl1.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl2.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.GenerateResource.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CoreCompileInputs.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CopyComplete
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).exe
+C:\Users\Malak\Documents\Semster 4\Software\poject\update\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).pdb
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe.config
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).exe
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\Magazine Management System (SWE).pdb
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\stdole.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.AssemblyReference.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F5_Disconnected.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Author.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.Customer.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.F3_Magazines.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.View_Best_Magazine.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F7_Admin.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.F8_EnterSystem.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.GUI.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System__SWE_.Properties.Resources.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl1.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine_Management_System.UserControl2.resources
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.GenerateResource.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CoreCompileInputs.cache
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).csproj.CopyComplete
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).exe
+C:\Users\Malak\Documents\Semster 4\Software\poject\Phase_2\Magazine Management System (SWE)2\Magazine Management System (SWE)\obj\Debug\Magazine Management System (SWE).pdb

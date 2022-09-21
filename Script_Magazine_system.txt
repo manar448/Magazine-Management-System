@@ -1,0 +1,155 @@
+
+MAGAZINESSYSADMIN
+
+
+CREATE TABLE "SCOTT"."SYS_MAGAZINESSYSADMIN" 
+   (    "ID" NUMBER(36,0), 
+    "NAME" VARCHAR2(20 BYTE), 
+    "EMAIL" VARCHAR2(60 BYTE), 
+    "PASSWORD" VARCHAR2(60 BYTE), 
+    "PHONE NUMBER" NUMBER(36,0)
+   )
+
+INSERT INTO "SCOTT"."SYS_MAGAZINESSYSADMIN" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER") VALUES ('11', 'Manar Alaa', 'mero@mail.com', '56789', '01112345678');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINESSYSADMIN" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER") VALUES ('12', 'Menna Bassam', 'menna@mail.com', '159753', '01012345679');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINESSYSADMIN" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER") VALUES ('13', 'Mohamed Mahmoud', 'mhmd@mail.com', 'mhmd', '01012445566');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINESSYSADMIN" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER") VALUES ('14', 'Mahmoud Ahmed', 'mahmoud@mail.com', '101112', '01212334455');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINESSYSADMIN" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER") VALUES ('15', 'Farah Mohamed', 'farah@mail.com', 'fffff', '01033445566');
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SYS_MAGAZINEUSERS
+
+
+CREATE TABLE "SCOTT"."SYS_MAGAZINEUSERS" 
+   (	"ID" NUMBER(38,0) NOT NULL ENABLE, 
+	"NAME" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"EMAIL" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"PASSWORD" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"PHONE NUMBER" NUMBER(38,0) NOT NULL ENABLE, 
+	"CARD NUMBER" NUMBER(38,0) NOT NULL ENABLE, 
+	"TYPE" VARCHAR2(60 BYTE) NOT NULL ENABLE
+   ) 
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('01', 'Mazin Mohammed', 'mmfr@mail.com', 'm1234', '01111223344', '1111222233334444', 'Author');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('02', 'Malak Ismail', 'malak@mail.com', '12345', '01011223344', '3333444455556666', 'Author');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('03', 'Manar Mohammed', 'manar@mail.com', '678910', '01012345678', '5555666677778888', 'Author');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('04', 'Mahmoud Mohammed', 'mhmod@mail.com', '01234', '01011122233', '4444555566667777', 'Author');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('05', 'Menna Mohamed', 'mena@mail.com', '101122', '01122334455', '6666777788889999', 'Author');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('06', 'Manar Ibrahim', 'manar@mail.com', 'mm123', '01000334455', '1000100010001000', 'Customer');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('07', 'Manar Mostafa', 'mnar@mail.com', 'mmmm', '01200334455', '1111999988887777', 'Customer');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('08', 'Malak Adel', 'maloka@mail.com', '0000', '01010335555', '9999888877776666', 'Customer');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('09', 'Ahmed Mohamed', 'ahmed@mail.com', 'mody', '01111554433', '2222222222222222', 'Customer');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEUSERS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", Type) VALUES ('10', 'Menna Ibrahem', 'mena@mail.com', 'menna', '01005566777', '5555555555555555', 'Customer');
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SYS_MAGAZINEAUTHORS
+
+
+CREATE TABLE "SCOTT"."SYS_MAGAZINEAUTHORS" 
+   (	"ID" NUMBER(38,0) NOT NULL ENABLE, 
+	"NAME" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"EMAIL" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"PASSWORD" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"PHONE NUMBER" NUMBER(38,0) NOT NULL ENABLE, 
+	"CARD NUMBER" NUMBER(38,0) NOT NULL ENABLE, 
+	"PRODUCT" VARCHAR2(60 BYTE), 
+	"PROFIT" NUMBER(38,0)
+   )
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEAUTHORS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", PRODUCT, PROFIT) VALUES ('01', 'Mazin Mohammed', 'mmfr@mail.com', 'm1234', '01111223344', '1111222233334444', 'The Art Of Eating, Cooks Illustrated, Food And Wine', '150');
+
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEAUTHORS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", PRODUCT, PROFIT) VALUES ('02', 'Malak Ismail', 'malak@mail.com', '12345', '01011223344', '3333444455556666', 'Elle, Vogue, Wonder Land', '133');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEAUTHORS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", PRODUCT, PROFIT) VALUES ('03', 'Manar Mohammed', 'manar@mail.com', '678910', '01012345678', '5555666677778888', 'Sayidaty, Hawaa, Numero', '125');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEAUTHORS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", PRODUCT, PROFIT) VALUES ('04', 'Mahmoud Mohammed', 'mhmod@mail.com', '01234', '01011122233', '4444555566667777', 'Automobile, Road Track, Motor Trend', '85');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEAUTHORS" (ID, NAME, EMAIL, PASSWORD, "PHONE NUMBER", "CARD NUMBER", PRODUCT, PROFIT) VALUES ('05', 'Menna Mohamed', 'mena@mail.com', '101122', '01122334455', '6666777788889999', 'Gourmet, Saveur', '40');
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SYS_MAGAZINEPRODUCTS
+
+
+
+CREATE TABLE "SCOTT"."SYS_MAGAZINEPRODUCTS" 
+   (	"CODE" NUMBER(38,0) NOT NULL ENABLE, 
+	"NAME" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"CATEGORY" VARCHAR2(60 BYTE) NOT NULL ENABLE, 
+	"VERSION" VARCHAR2(38 BYTE) NOT NULL ENABLE, 
+	"QUANTITY" NUMBER(38,0) NOT NULL ENABLE, 
+	"PRICE" NUMBER(38,0) NOT NULL ENABLE, 
+	"RATE" BINARY_DOUBLE
+   )
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('111', 'Sayidaty', 'Womens Magazines', '10', '100', '100', '9.5');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('222', 'Hawaa', 'Womens Magazines', '9', '50', '90', '9');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('5555', 'Elle', 'Fashions Magazines', '11', '40', '80', '9.7');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('6666', 'Wonder Land', 'Fashions Magazines', '10', '30', '90', '8.5');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('7777', 'Vogue', 'Fashions Magazines', '20', '50', '95', '9.9');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('8888', 'Numero', 'Fashions Magazines', '10', '30', '60', '7');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('444', 'The Art Of Eating', 'Cooks Magazines', '15', '50', '90', '9');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('555', 'Cooks Illustrated', 'Cooks Magazines', '20', '30', '110', '9.8');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('666', 'Food And Wine', 'Cooks Magazines', '25', '20', '100', '8.5');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('777', 'Saveur', 'Cooks Magazines', '10', '10', '50', '7');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('888', 'Gourmet', 'Cooks Magazines', '5', '7', '30', '6');
+
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('11', 'Automobile', 'Cars Magazines', '20', '50', '70', '9.7');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('12', 'Road Track', 'Cars Magazines', '10', '30', '60', '8');
+INSERT INTO "SCOTT"."SYS_MAGAZINEPRODUCTS" (CODE, NAME, CATEGORY, VERSION, QUANTITY, PRICE, Rate) VALUES ('13', 'Motor Trend', 'Cars Magazines', '15', '20', '40', '7');
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+create or replace procedure Get_ID
+(nam in VARCHAR2, ids out NUMBER)
+as
+begin
+select ID 
+into ids
+from sys_magazineauthors
+where (nam = Name);
+end;
+
+
+create or replace procedure Get_All_Authors
+(nam out sys_refcursor)
+as
+begin
+open nam for 
+select Name 
+from sys_magazineauthors;
+END;
+
+commit;
+
+
+
+
+
+
+
+
+
+
+
